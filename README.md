@@ -20,7 +20,7 @@
   
 - 👯 Busco colaborar en proyectos que aporten a mi conocimiento como desarrolladora. 
  
-- 💬 Pregúntame sobre Sql, Spring Boot, css, html, quizás podemos resolver dudas junt@s
+- 💬 Pregúntame sobre Sql, Spring Boot, css, html, podemos resolver dudas y aprender junt@s
   
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
 
