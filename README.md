@@ -14,13 +14,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente  Soy Estudiante en el TdeA IU
+- 🔭 Actualmente Soy Estudiante del TdeA IU
   
 - 🌱 Actualmente estoy aprendiendo, React y un poco de Spring Boot
   
 - 👯 Busco colaborar en Proyectos
   
-- 💬 Pregúntame sobre Sql, Spring Boot
+- 💬 Pregúntame sobre Sql, Spring Boot, css, html
   
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
 
