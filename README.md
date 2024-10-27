@@ -24,18 +24,37 @@
   
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
 
-<h2> Habilidades <img src="https://media.giphy.com/media/3o7aD4k0gYgA3iGq2Q/giphy.gif" width="32px"> </h2>
 
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=react&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=java&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=sql&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=css&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=spring&sort="> <img width="32px" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"> </a>
-<a href="https://github.com/lumacg06"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> </a>
 
+<h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=react&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=java&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=sql&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=css&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=html&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=javascript&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
+    <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
+</a>
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=spring&sort="> 
+    <img width="32px" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" style="border-radius: 5px; background-color: white; padding: 2px;"> 
+</a>
+<a href="https://github.com/lumacg06"> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
+</a>
 <h2>Conéctate conmigo <img src='https://media.giphy.com/media/3o7btNqH6P6U9uL8D2/giphy.gif' width="30px" alt="Sticker en Movimiento"></h2>
 <a href='https://www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/'>
     <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
