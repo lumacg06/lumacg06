@@ -24,7 +24,7 @@
   
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
 
-- 🌞 La programación me ha cautivado profundamente a medida que he explorado sus entrañas. Aunque el proceso no es fácil, he aprendido a valorar la paciencia como una virtud indispensable. Mi mayor anhelo es adquirir un conocimiento profundo en este campo, ya que creo firmemente que el conocimiento es poder. Mi objetivo es dominar la programación de principio a fin, y estoy emocionado de continuar aprendiendo y creciendo en este apasionante mundo.
+- 🌞 La programación me ha cautivado profundamente a medida que he explorado sus entrañas. Aunque el proceso no es fácil, he aprendido a valorar la paciencia como una virtud indispensable. Mi mayor anhelo es adquirir un conocimiento profundo en este campo, ya que creo firmemente que el conocimiento es poder. Mi objetivo es dominar la programación de principio a fin, y estoy emocionada de continuar aprendiendo y creciendo en este apasionante mundo.
 
 
 <h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
