@@ -26,7 +26,6 @@
 
 - 🌞 La programación me ha cautivado profundamente a medida que he explorado sus entrañas. Aunque el proceso no es fácil, he aprendido a valorar la paciencia como una virtud indispensable. Mi mayor anhelo es adquirir un conocimiento profundo en este campo, ya que creo firmemente que el conocimiento es poder. Mi objetivo es dominar la programación de principio a fin, y estoy emocionada de continuar aprendiendo y creciendo en este apasionante mundo.
 
-
 <h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=react&sort="> 
@@ -56,6 +55,10 @@
 <a href="https://github.com/lumacg06"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
 </a>
+<a href="https://www.postman.com/">
+    <img width="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+</a>
+
 <h2>Conéctate conmigo <img src='https://media.giphy.com/media/3o7btNqH6P6U9uL8D2/giphy.gif' width="30px" alt="Sticker en Movimiento"></h2>
 <a href='https://www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/'>
     <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
