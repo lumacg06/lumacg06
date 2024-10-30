@@ -55,9 +55,6 @@
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=spring&sort="> 
     <img width="32px" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" style="border-radius: 5px; background-color: white; padding: 2px;"> 
 </a>
-<a href="https://github.com/lumacg06"> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
-</a>
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
     <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
 </a>
