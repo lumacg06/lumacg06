@@ -49,6 +49,12 @@
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
     <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
 </a>
+<a href="https://www.postman.com/">
+    <img width="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+</a>
+<a href='https://www.github.com/lumacg06'>
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+</a>
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=spring&sort="> 
     <img width="32px" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" style="border-radius: 5px; background-color: white; padding: 2px;"> 
 </a>
@@ -63,9 +69,7 @@
 <a href='https://www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/'>
     <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a> 
-<a href='https://www.github.com/lumacg06'>
-    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
+
   
 <br>
 <br>
