@@ -45,8 +45,8 @@
     <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
         <img width="64px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
     </a>
-        <a href='https://www.github.com/lumacg06' style="display: inline-block; vertical-align: middle;">
-        <img width='64px' align='center' src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" style="vertical-align: middle;"/>
+        <a href='https://www.github.com/lumacg06'>
+        <img width='64px' src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"/>
     </a>
 </div>
   
