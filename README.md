@@ -1,29 +1,21 @@
-
 <p align="center">
     <img width="200" src="https://i.pinimg.com/564x/7d/a1/ff/7da1ff11949d6e33ca9176a685ceeb80.jpg">
 </p>
 
-<h1>Hola! que tal amigos Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1>Hola! que tal amigos Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align='center'></p>
 
-<div size='20px'> Mi nombre es lumacg06 y soy una apasio-obseccionada por la programación.
-</div>
+<div size='20px'> Mi nombre es lumacg06 y soy una apasio-obseccionada por la programación.</div>
 
-<h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Sobre mi <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente Soy Estudiante del TdeA IU
-  
 - 🌱 Estoy aprendiendo, React y un poco de Spring Boot.
-  
 - 👯 Busco colaborar en proyectos que aporten a mi conocimiento como desarrolladora. 
- 
 - 💬 Pregúntame sobre Sql, Spring Boot, css, html, podemos resolver dudas y aprender junt@s
-  
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
-
 - 🌞 La programación me ha cautivado profundamente a medida que he explorado sus entrañas. Aunque el proceso no es fácil, he aprendido a valorar la paciencia como una virtud indispensable. Mi mayor anhelo es adquirir un conocimiento profundo en este campo, ya que creo firmemente que el conocimiento es poder. Mi objetivo es dominar la programación de principio a fin, y estoy emocionada de continuar aprendiendo y creciendo en este apasionante mundo.
 
 <h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
@@ -75,4 +67,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <br>
-
