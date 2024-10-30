@@ -46,9 +46,6 @@
 <a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=javascript&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
 </a>
-<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
-    <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
-</a>
 <a href="https://www.postman.com/">
     <img width="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
 </a>
@@ -61,10 +58,9 @@
 <a href="https://github.com/lumacg06"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
 </a>
-<a href="https://www.postman.com/">
-    <img width="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+<a href="https://github.com/lumacg06?tab=repositories&q=&type=&language=vite&sort="> 
+    <img width="32px" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"> 
 </a>
-
 <h2>Conéctate conmigo <img src='https://media.giphy.com/media/3o7btNqH6P6U9uL8D2/giphy.gif' width="30px" alt="Sticker en Movimiento"></h2>
 <a href='https://www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/'>
     <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
