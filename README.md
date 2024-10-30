@@ -7,7 +7,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Mi nombre es Luisa Chavarria y soy una apasio-obseccionada por la programación.
+<div size='20px'> Mi nombre es lumacg06 y soy una apasio-obseccionada por la programación.
 </div>
 
 <h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
