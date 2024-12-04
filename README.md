@@ -55,7 +55,7 @@
   <br>
   <h2>Contáctame</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="_blank">
+    <a href="www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/?trk=opento_sprofile_topcard" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="40px" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
