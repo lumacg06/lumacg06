@@ -53,6 +53,16 @@
 <br>
 <br>
   <br>
+  <h2>Contáctame</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="40px" alt="LinkedIn">
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:tu-email@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" width="40px" alt="Gmail">
+    </a>
+</p>
   
 | ![Lumacg06's github stats](https://github-readme-stats.vercel.app/api?username=lumacg06&show_icons=true&theme=tokyonight) | ![Lumacg06 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lumacg06&theme=tokyonight) |
 | --- | --- |
