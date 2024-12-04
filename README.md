@@ -54,10 +54,4 @@
 <br>
   <br>
   
-| ![Lumacg06's github stats](https://github-readme-stats.vercel.app/api?username=lumacg06&show_icons=true&theme=tokyonight) | ![Lumacg06 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lumacg06&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumacg06&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lumacg06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
+| ![Lumacg06's github stats](https://github-readme
