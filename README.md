@@ -55,11 +55,11 @@
   <br>
   <h2>Contáctame</h2>
 <p align="center">
-    <a href="www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/?trk=opento_sprofile_topcard" target="_blank">
+    <a href="https://www.linkedin.com/in/luisa-chavarr%C3%ADa-2a40b12b6/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="40px" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:tu-email@gmail.com" target="_blank">
+    <a href="mailto:luisachavarria06@gmail.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" width="40px" alt="Gmail">
     </a>
 </p>
