@@ -5,14 +5,14 @@
 <h1>Hola! que tal amigos Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align='center'></p>
 
-<div size='20px'> Mi nombre es lumacg06 y soy una apasio-obseccionada por la programación.</div>
+<div size='20px'> Mi nombre es Luisa y soy una apasio-obseccionada por la programación.</div>
 
 <h2> Sobre mi <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente Soy Estudiante del TdeA IU
-- 🌱 Estoy aprendiendo, React y un poco de Spring Boot.
+- 🌱 Estoy aprendiendo, Angular y un poco de HTML y CSS.
 - 👯 Busco colaborar en proyectos que aporten a mi conocimiento como desarrolladora. 
 - 💬 Pregúntame sobre Sql, Spring Boot, css, html, podemos resolver dudas y aprender junt@s
 - ⚡ Dato curioso: Soy del campo y ya saben, más sabe el diablo por viejo que por diablo
